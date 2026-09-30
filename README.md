@@ -1,3 +1,4 @@
-here i apload the PRELAB and LAB files of the subject Electrical Circuit of Dr Zarghani from Sharif University of Technology
+This repository contains the **pre-lab assignments and laboratory files** for the Electrical Circuits course at **Sharif University of Technology**, taught by **Dr. Zarghani**.
 
-همگروهی : امیرعلی جهانبخشی 
+**Instructor:** Dr. Zarghani
+**Team Member:** Amirali Jahanshabkshi
